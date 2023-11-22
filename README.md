@@ -76,6 +76,11 @@ Rebuild everything:
 make build
 ```
 
+Generate Protos:
+```shell
+make proto
+```
+
 ## Configuration
 
 ### Dependency overview
